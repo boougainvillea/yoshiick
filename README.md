@@ -1,36 +1,25 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
+<img src="https://64.media.tumblr.com/025b35687e994dfdf1a1aa9543694842/4e88badd75e8455b-a4/s2048x3072/952453b6bc68af76b483a7a0c25ef4530d701920.pnj" alt="alt text" width="xxx">
 
-***
+  <img src="https://64.media.tumblr.com/0de8720cd8d09bab2e431275dcd900e0/141ce20fa5509dc6-b7/s1280x1920/90ac1e854c6c35c962f7bfd9b6824e8ff900c6da.pnj" alt="alt text" align="center" width="xxx">
 
-**Schrödinger's cat** 
+Pierrot is one of the most recognizable characters in European theater and originated from the Commedia dell'arte tradition, which developed in Italy during the 16th century. Although the character first appeared in Italian performances, he became especially popular in France, where his image evolved and gained worldwide recognition.
 
-<img src="https://files.catbox.moe/aju2yb.png" alt="alt text" width="xxx">
+Unlike many comic characters of his time, Pierrot was portrayed as gentle, quiet, and deeply emotional. He often appeared as a dreamer who struggled to express his feelings and was frequently depicted as being hopelessly in love with Colombina, a love that was rarely returned. This combination of innocence and melancholy made him one of the most memorable figures in theatrical history.
 
-***
+Over the centuries, Pierrot's meaning expanded beyond the stage. Writers, painters, musicians, and filmmakers adopted the character as a symbol of loneliness, sensitivity, and unfulfilled love. His story came to represent the emotional side of human nature rather than simple comedy.
 
-In quantum mechanics, Schrödinger's cat is a thought experiment concerning quantum superposition. In the thought experiment, a hypothetical cat in a closed box may be considered to be simultaneously both alive and dead while it is unobserved, as a result of its fate being linked to a random subatomic event that may or may not occur. This experiment, viewed this way, is described as a paradox. This thought experiment was devised by physicist Erwin Schrödinger in 1935 in a discussion with Albert Einstein to illustrate what Schrödinger saw as the problems of Niels Bohr and Werner Heisenberg's philosophical views on quantum mechanics.
+Today, Pierrot remains an enduring cultural icon whose influence can still be seen in literature, visual arts, theater, fashion, and popular culture. His legacy continues to captivate audiences by reminding them that vulnerability and imagination can be just as powerful as strength and humor.
 
-In Schrödinger's original formulation, a cat, a flask of poison, and a radioactive source are placed in a sealed box. If an internal radiation monitor such as a Geiger counter detects radioactivity (a single atom decaying), the flask is shattered, releasing the poison, which kills the cat. If no decaying atom triggers the monitor, the cat remains alive. Mathematically, the wave function that describes the contents of the box is a combination, or quantum superposition, of these two possibilities. Yet, when one looks in the box, one sees the cat either alive or dead, not both alive and dead. This poses the question of when exactly quantum superposition ends and reality resolves into one possibility or the other.
+<img src="https://64.media.tumblr.com/0de8720cd8d09bab2e431275dcd900e0/141ce20fa5509dc6-b7/s1280x1920/90ac1e854c6c35c962f7bfd9b6824e8ff900c6da.pnj" alt="alt text" align="center" width="xxx">
 
-Although originally a critique of Bohr and Heisenberg, Schrödinger's seemingly paradoxical thought experiment became part of the foundation of quantum mechanics. It is often featured in theoretical discussions of the interpretations of quantum mechanics, particularly in situations involving the measurement problem. As a result, Schrödinger's cat has had enduring appeal in popular culture. The experiment is not intended to be actually performed on a cat, but rather as an easily understandable illustration of the behavior of atoms. Experiments at the atomic scale have been carried out, showing that very small objects may exist as superpositions, but superposing an object as large as a cat would pose considerable technical difficulties.
+<img src="https://64.media.tumblr.com/7746add112afbc8a4383cecbd17a5cb9/473cb7d99dd6bf5d-c8/s100x200/66316082b00c763730d82479bd494e1ccc2d349a.pnj" alt="alt text" align="center" width="xxx"> <img src="https://64.media.tumblr.com/44d1350f864c5609adc3a60e203479a0/8351a5555c0684b1-22/s100x200/b5b3761eb24d5b4856fdc8091dd7a22ba7399a90.gifv" alt="alt text" align="center" width="xxx"> 
 
-Fundamentally, the Schrödinger's cat experiment asks how long quantum superpositions last and when (or whether) they collapse. Different interpretations of the mathematics of quantum mechanics have been proposed that give different explanations for this process.
- 
-
+<img src="https://64.media.tumblr.com/0de8720cd8d09bab2e431275dcd900e0/141ce20fa5509dc6-b7/s1280x1920/90ac1e854c6c35c962f7bfd9b6824e8ff900c6da.pnj" alt="alt text" align="center" width="xxx">
 
 
-A "cat state" has been achieved with photons.
-A beryllium ion has been trapped in a superposed state.
-An experiment involving a superconducting quantum interference device ("SQUID") has been linked to the theme of the thought experiment: "The superposition state does not correspond to a billion electrons flowing one way and a billion others flowing the other way. Superconducting electrons move en masse. All the superconducting electrons in the SQUID flow both ways around the loop at once when they are in the Schrödinger's cat state."
-A piezoelectric "tuning fork" has been constructed, which can be placed into a superposition of vibrating and non vibrating states. The resonator comprises about 10 trillion atoms.
-An experiment involving a flu virus has been proposed.
-An experiment involving a bacterium and an electromechanical oscillator has been proposed.
-In quantum computing the phrase "cat state" sometimes refers to the GHZ state, wherein several qubits are in an equal superposition of all being 0 and all being 1; e.g.,
+<img src="https://i.pinimg.com/736x/92/8a/65/928a6597c0eeeb22ebecee2e40c8f502.jpg" alt="alt text" align="center" width="300"> <img src="https://i.pinimg.com/736x/7d/46/78/7d4678fa121ec6f84fc8d1937a198eeb.jpg" alt="alt text" align="center" width="291">
 
-<img src="https://files.catbox.moe/p0gevw.webp" alt="alt text" width="500https://files.catbox.moe/p0gevw.webp">
+<img src="https://64.media.tumblr.com/0de8720cd8d09bab2e431275dcd900e0/141ce20fa5509dc6-b7/s1280x1920/90ac1e854c6c35c962f7bfd9b6824e8ff900c6da.pnj" alt="alt text" align="center" width="xxx">
 
-According to at least one proposal, it may be possible to determine the state of the cat before observing it. 
-
- ***
-
-<img src="https://files.catbox.moe/29t0mc.jpg" alt="alt text" width="xxx">
+<img src="https://64.media.tumblr.com/85324f8c9978cea43a8392d1125ed0dc/4e88badd75e8455b-8a/s2048x3072/2635db11b81383052d16f0c41ae23e7b30e0749f.pnj" alt="alt text" width="xxx">
